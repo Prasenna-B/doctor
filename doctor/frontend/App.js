@@ -1,7 +1,7 @@
 import React from 'react';
 import DoctorsList from './components/DoctorsList';
 import Header from './components/Header';
-import './styles/App.css';
+import './App.css';
 
 function App() {
   return (
